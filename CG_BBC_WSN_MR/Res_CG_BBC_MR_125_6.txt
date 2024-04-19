@@ -1,0 +1,11 @@
+/home/fabian/Documents/MLP/Instance_1_500_15_0.txt Lifetime:18.1123 Time: 3752 n cols: 2247 n iters: 2277
+/home/fabian/Documents/MLP/Instance_1_500_15_1.txt Lifetime:27.6167 Time: 3600 n cols: 3709 n iters: 3714
+/home/fabian/Documents/MLP/Instance_1_500_15_2.txt Lifetime:31.7269 Time: 3601 n cols: 4812 n iters: 4801
+/home/fabian/Documents/MLP/Instance_1_500_15_3.txt Lifetime:29.3819 Time: 3602 n cols: 4742 n iters: 4736
+/home/fabian/Documents/MLP/Instance_1_500_30_0.txt Lifetime:23.266 Time: 3617 n cols: 3834 n iters: 3842
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:28.7302 Time: 3613 n cols: 982 n iters: 933
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:27 Time: 603 n cols: 807 n iters: 772
+/home/fabian/Documents/MLP/Instance_1_500_30_2.txt Lifetime:27 Time: 225 n cols: 860 n iters: 860
+/home/fabian/Documents/MLP/Instance_1_500_30_3.txt Lifetime:28 Time: 1537 n cols: 1699 n iters: 1633
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:28.6817 Time: 3670 n cols: 932 n iters: 872
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:29.2885 Time: 3613 n cols: 1088 n iters: 970

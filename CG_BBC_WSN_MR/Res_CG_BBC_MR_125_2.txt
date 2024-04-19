@@ -1,0 +1,5 @@
+/home/fabian/Documents/MLP/Instance_1_100_15_1.txt Lifetime:4 Time: 17 n cols: 404 n iters: 404
+/home/fabian/Documents/MLP/Instance_1_100_15_2.txt Lifetime:3.75 Time: 82 n cols: 349 n iters: 336
+/home/fabian/Documents/MLP/Instance_1_100_15_3.txt Lifetime:4 Time: 113 n cols: 394 n iters: 368
+/home/fabian/Documents/MLP/Instance_1_100_30_1.txt Lifetime:4 Time: 55 n cols: 403 n iters: 391
+/home/fabian/Documents/MLP/Instance_1_100_30_3.txt Lifetime:4 Time: 103 n cols: 483 n iters: 462

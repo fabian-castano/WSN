@@ -1,0 +1,95 @@
+/home/fabian/Documents/MLP/Instance_1_100_15_0.txt Lifetime:5 Time: 56 n cols: 98 n iters: 48
+/home/fabian/Documents/MLP/Instance_1_100_15_1.txt Lifetime:4 Time: 13 n cols: 67 n iters: 30
+/home/fabian/Documents/MLP/Instance_1_100_15_2.txt Lifetime:3 Time: 51 n cols: 41 n iters: 25
+/home/fabian/Documents/MLP/Instance_1_100_15_3.txt Lifetime:4 Time: 2 n cols: 50 n iters: 27
+/home/fabian/Documents/MLP/Instance_1_100_30_0.txt Lifetime:4.50477 Time: 221 n cols: 82 n iters: 36
+/home/fabian/Documents/MLP/Instance_1_100_30_1.txt Lifetime:4 Time: 6 n cols: 86 n iters: 33
+/home/fabian/Documents/MLP/Instance_1_100_30_2.txt Lifetime:3 Time: 12 n cols: 40 n iters: 19
+/home/fabian/Documents/MLP/Instance_1_100_30_3.txt Lifetime:4 Time: 29 n cols: 59 n iters: 32
+
+/home/fabian/Documents/MLP/Instance_1_200_15_0.txt Lifetime:8 Time: 4 n cols: 88 n iters: 45
+/home/fabian/Documents/MLP/Instance_1_200_15_1.txt Lifetime:12 Time: 43 n cols: 372 n iters: 138
+/home/fabian/Documents/MLP/Instance_1_200_15_2.txt Lifetime:9 Time: 3 n cols: 140 n iters: 72
+/home/fabian/Documents/MLP/Instance_1_200_15_3.txt Lifetime:10.6634 Time: 236 n cols: 182 n iters: 92
+/home/fabian/Documents/MLP/Instance_1_200_30_0.txt Lifetime:8 Time: 6 n cols: 122 n iters: 54
+/home/fabian/Documents/MLP/Instance_1_200_30_1.txt Lifetime:7 Time: 2 n cols: 73 n iters: 38
+/home/fabian/Documents/MLP/Instance_1_200_30_2.txt Lifetime:9 Time: 5 n cols: 158 n iters: 80
+/home/fabian/Documents/MLP/Instance_1_200_30_3.txt Lifetime:10.5452 Time: 221 n cols: 218 n iters: 100
+
+/home/fabian/Documents/MLP/Instance_1_300_15_0.txt Lifetime:15 Time: 48 n cols: 267 n iters: 136
+/home/fabian/Documents/MLP/Instance_1_300_15_1.txt Lifetime:15.1865 Time: 299 n cols: 236 n iters: 123
+/home/fabian/Documents/MLP/Instance_1_300_15_2.txt Lifetime:12 Time: 11 n cols: 172 n iters: 88
+/home/fabian/Documents/MLP/Instance_1_300_15_3.txt Lifetime:16 Time: 291 n cols: 317 n iters: 162
+/home/fabian/Documents/MLP/Instance_1_300_30_0.txt Lifetime:15 Time: 121 n cols: 273 n iters: 138
+/home/fabian/Documents/MLP/Instance_1_300_30_1.txt Lifetime:13 Time: 400 n cols: 2567 n iters: 2414
+/home/fabian/Documents/MLP/Instance_1_300_30_2.txt Lifetime:12 Time: 14 n cols: 170 n iters: 87
+/home/fabian/Documents/MLP/Instance_1_300_30_3.txt Lifetime:13 Time: 99 n cols: 209 n iters: 106
+
+/home/fabian/Documents/MLP/Instance_1_400_15_0.txt Lifetime:16 Time: 14 n cols: 190 n iters: 97
+/home/fabian/Documents/MLP/Instance_1_400_15_1.txt Lifetime:18 Time: 27 n cols: 250 n iters: 127
+/home/fabian/Documents/MLP/Instance_1_400_15_2.txt Lifetime:22 Time: 35 n cols: 516 n iters: 248
+/home/fabian/Documents/MLP/Instance_1_400_15_3.txt Lifetime:17 Time: 20 n cols: 244 n iters: 124
+/home/fabian/Documents/MLP/Instance_1_400_30_0.txt Lifetime:16 Time: 26 n cols: 198 n iters: 101
+/home/fabian/Documents/MLP/Instance_1_400_30_1.txt Lifetime:18 Time: 36 n cols: 244 n iters: 124
+/home/fabian/Documents/MLP/Instance_1_400_30_2.txt Lifetime:21 Time: 130 n cols: 396 n iters: 184
+/home/fabian/Documents/MLP/Instance_1_400_30_3.txt Lifetime:17 Time: 45 n cols: 291 n iters: 148
+
+/home/fabian/Documents/MLP/Instance_1_500_15_0.txt Lifetime:27.1111 Time: 327 n cols: 453 n iters: 230
+/home/fabian/Documents/MLP/Instance_1_500_15_1.txt Lifetime:27 Time: 84 n cols: 513 n iters: 258
+/home/fabian/Documents/MLP/Instance_1_500_15_2.txt Lifetime:31 Time: 137 n cols: 1027 n iters: 475
+/home/fabian/Documents/MLP/Instance_1_500_15_3.txt Lifetime:28 Time: 48 n cols: 683 n iters: 343
+/home/fabian/Documents/MLP/Instance_1_500_30_0.txt Lifetime:23 Time: 51 n cols: 314 n iters: 159
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:27 Time: 260 n cols: 786 n iters: 426
+/home/fabian/Documents/MLP/Instance_1_500_30_2.txt Lifetime:27 Time: 31 n cols: 546 n iters: 275
+/home/fabian/Documents/MLP/Instance_1_500_30_3.txt Lifetime:26.3918 Time: 118 n cols: 577 n iters: 288
+
+/home/fabian/Documents/MLP/Instance_1_100_15_0.txt Lifetime:5.46002 Time: 132 n cols: 122 n iters: 45
+/home/fabian/Documents/MLP/Instance_1_100_15_1.txt Lifetime:4 Time: 0 n cols: 47 n iters: 25
+/home/fabian/Documents/MLP/Instance_1_100_15_2.txt Lifetime:3 Time: 7 n cols: 28 n iters: 16
+/home/fabian/Documents/MLP/Instance_1_100_15_3.txt Lifetime:4.6832 Time: 239 n cols: 59 n iters: 32
+/home/fabian/Documents/MLP/Instance_1_100_30_0.txt Lifetime:5.06035 Time: 185 n cols: 91 n iters: 40
+/home/fabian/Documents/MLP/Instance_1_100_30_1.txt Lifetime:4 Time: 2 n cols: 62 n iters: 31
+/home/fabian/Documents/MLP/Instance_1_100_30_2.txt Lifetime:3 Time: 18 n cols: 32 n iters: 17
+/home/fabian/Documents/MLP/Instance_1_100_30_3.txt Lifetime:5.16854 Time: 211 n cols: 90 n iters: 42
+
+/home/fabian/Documents/MLP/Instance_1_200_15_0.txt Lifetime:9 Time: 14 n cols: 135 n iters: 59
+/home/fabian/Documents/MLP/Instance_1_200_15_1.txt Lifetime:14.3334 Time: 200 n cols: 457 n iters: 174
+
+
+/home/fabian/Documents/MLP/Instance_1_200_30_0.txt Lifetime:9 Time: 5 n cols: 123 n iters: 60
+/home/fabian/Documents/MLP/Instance_1_200_30_1.txt Lifetime:11 Time: 10 n cols: 223 n iters: 107
+
+
+/home/fabian/Documents/MLP/Instance_1_300_15_0.txt Lifetime:16.8325 Time: 351 n cols: 293 n iters: 147
+/home/fabian/Documents/MLP/Instance_1_300_15_1.txt Lifetime:14.125 Time: 245 n cols: 184 n iters: 97
+/home/fabian/Documents/MLP/Instance_1_300_15_2.txt Lifetime:14.184 Time: 162 n cols: 205 n iters: 102
+/home/fabian/Documents/MLP/Instance_1_300_15_3.txt Lifetime:15.671 Time: 323 n cols: 274 n iters: 141
+/home/fabian/Documents/MLP/Instance_1_300_30_0.txt Lifetime:15.6732 Time: 253 n cols: 226 n iters: 116
+/home/fabian/Documents/MLP/Instance_1_300_30_1.txt Lifetime:15.1379 Time: 268 n cols: 215 n iters: 112
+/home/fabian/Documents/MLP/Instance_1_300_30_2.txt Lifetime:15 Time: 32 n cols: 233 n iters: 118
+/home/fabian/Documents/MLP/Instance_1_300_30_3.txt Lifetime:14 Time: 73 n cols: 191 n iters: 93
+
+/home/fabian/Documents/MLP/Instance_1_400_15_0.txt Lifetime:16 Time: 16 n cols: 200 n iters: 102
+/home/fabian/Documents/MLP/Instance_1_400_15_1.txt Lifetime:21.3355 Time: 303 n cols: 335 n iters: 172
+/home/fabian/Documents/MLP/Instance_1_400_15_2.txt Lifetime:28.765 Time: 388 n cols: 971 n iters: 387
+/home/fabian/Documents/MLP/Instance_1_400_15_3.txt Lifetime:24.6555 Time: 378 n cols: 627 n iters: 315
+/home/fabian/Documents/MLP/Instance_1_400_30_0.txt Lifetime:16 Time: 11 n cols: 190 n iters: 97
+/home/fabian/Documents/MLP/Instance_1_400_30_1.txt Lifetime:23.4255 Time: 325 n cols: 422 n iters: 215
+/home/fabian/Documents/MLP/Instance_1_400_30_2.txt Lifetime:25 Time: 122 n cols: 599 n iters: 256
+/home/fabian/Documents/MLP/Instance_1_400_30_3.txt Lifetime:22.5057 Time: 341 n cols: 885 n iters: 322
+
+/home/fabian/Documents/MLP/Instance_1_500_15_0.txt Lifetime:26.1409 Time: 346 n cols: 390 n iters: 199
+/home/fabian/Documents/MLP/Instance_1_500_15_1.txt Lifetime:28.8459 Time: 147 n cols: 562 n iters: 278
+/home/fabian/Documents/MLP/Instance_1_500_15_2.txt Lifetime:35.2583 Time: 385 n cols: 1419 n iters: 620
+/home/fabian/Documents/MLP/Instance_1_500_15_3.txt Lifetime:32.9922 Time: 274 n cols: 1099 n iters: 527
+/home/fabian/Documents/MLP/Instance_1_500_30_0.txt Lifetime:26.3021 Time: 235 n cols: 382 n iters: 197
+/home/fabian/Documents/MLP/Instance_1_500_30_1.txt Lifetime:28.8778 Time: 226 n cols: 520 n iters: 265
+
+Rs=125
+/home/fabian/Documents/MLP/Instance_1_100_15_0.txt Lifetime:4.67607 Time: 3774 n cols: 136 n iters: 120
+/home/fabian/Documents/MLP/Instance_1_100_15_1.txt Lifetime:4 Time: 12 n cols: 72 n iters: 154
+/home/fabian/Documents/MLP/Instance_1_100_15_2.txt Lifetime:3 Time: 13 n cols: 30 n iters: 126
+/home/fabian/Documents/MLP/Instance_1_100_15_3.txt Lifetime:4.5554 Time: 3834 n cols: 109 n iters: 94
+/home/fabian/Documents/MLP/Instance_1_100_30_0.txt Lifetime:4.22589 Time: 3805 n cols: 87 n iters: 90
+/home/fabian/Documents/MLP/Instance_1_100_30_1.txt Lifetime:4 Time: 12 n cols: 90 n iters: 162
+/home/fabian/Documents/MLP/Instance_1_100_30_2.txt Lifetime:3 Time: 12 n cols: 37 n iters: 127
